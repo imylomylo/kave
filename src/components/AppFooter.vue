@@ -1,7 +1,7 @@
 <template>
-  <v-footer height="auto" color="yellow" fixed>
+  <v-footer height="auto">
     <v-card flat tile class="flex">
-      <v-card-title class="teal white--text">
+      <v-card-title class="yellow black--text">
         <strong class="subheading">Get connected with us on social networks!</strong>
         <v-spacer></v-spacer>
         <v-btn
